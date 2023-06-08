@@ -45,6 +45,12 @@ Contributions to this repository are welcome! If you would like to contribute to
 
 Please note that while the algorithms implemented in this repository are widely used and well-known, their performance and specific implementations may vary. It is recommended to thoroughly test and evaluate the algorithms in your specific use cases before relying on them in production environments.
 
+The implementations in this repository serve as a research project aiming to explore and analyze different data compression algorithms. By providing these implementations, we aim to facilitate the understanding of these algorithms and their practical application.
+
+While the implementations in this repository are intended primarily for educational and research purposes, they can also be used as a starting point for practical implementations or as a reference for benchmarking and comparison studies.
+
+We encourage researchers, students, and enthusiasts interested in data compression algorithms to explore this repository, contribute their own implementations, and use the existing implementations as a foundation for further research.
+
 If you have any questions or suggestions, please feel free to open an issue or reach out to the project maintainers.
 
 Happy compressing!
